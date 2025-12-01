@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 #Config
 MIN_DELAY_S = 1.0  
 MAX_DELAY_S = 2.0  
-IMAGE_FILENAME = "purple.png" 
+IMAGE_FILENAME = "test.png" 
 WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 800
 
